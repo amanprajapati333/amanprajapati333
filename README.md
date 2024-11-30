@@ -4,9 +4,9 @@
 
 I'm a passionate **Web Developer** with experience in **Web Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Android With Java
+- 🌱 Currently learning: C#
 - 🔭 Working on: E Commerce Website
-- 🌍 Languages: Python, JAVA, PHP, MySQL, CSS, HTML. || Hindi & English.
+- 🌍 Languages: Python, MySQL, CSS, HTML,JavaSrript,Bootstrap,C,C# || Hindi & English.
 - 📫 How to reach me: 
 - ⚡ Fun fact: 🙂
 
@@ -15,10 +15,11 @@ I'm a passionate **Web Developer** with experience in **Web Development**. I lov
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=python&logoColor=white)
-![Php](https://img.shields.io/badge/-Php-484C89?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&logo=mysql&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/-javascript-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-E34F26?style=flat-square&logo=html5&logoColor=white)
+![c](https://img.shields.io/badge/-c-E34F26?style=flat-square&logo=html5&logoColor=white)
+![c#](https://img.shields.io/badge/-c#-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanparajapati333&show_icons=true&theme=radical)
 
 ## Get in Touch 📬
