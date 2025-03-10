@@ -20,6 +20,7 @@ I'm a passionate **Web Developer** with experience in **Web Development**. I lov
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![c](https://img.shields.io/badge/-c-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![c#](https://img.shields.io/badge/-c#-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-.net-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanparajapati333&show_icons=true&theme=radical)
 
 ## Get in Touch 📬
